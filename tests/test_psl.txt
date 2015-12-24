@@ -8,3 +8,4 @@ checkPublicSuffix('amursk.ru', 'amursk.ru');
 checkPublicSuffix('appspot.com', 'appspot.com');
 checkPublicSuffix('ar.com', 'ar.com');
 checkPublicSuffix('eu.org', 'eu.org');
+checkPublicSuffix('nsk.ru', 'nsk.ru');
